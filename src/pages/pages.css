@@ -1,0 +1,166 @@
+
+/* login section start */
+
+.login {
+    background-color: #ffffff;
+    background-image: url(./imagesPlay/insta-gif.gif);
+    background-repeat: no-repeat;
+    background-size: contain;  
+}
+
+.login-form {
+    background-color: #e5e3e3;
+    margin-top: 70px;
+    margin-left: 0px;
+    width: 570px;
+    height: 450px;
+    border: 1px solid gray;
+    align-items: center;
+    padding: 4px;
+    border-radius: 19px;
+    box-shadow: 30px 30px 50px rgb(100, 100, 100);
+}
+.instagram-logo {
+    width: 300px;
+    height: 100px;
+    margin-top: 10px;
+    margin-left: 130px;
+    color: red;
+    font-size: 20px;
+    color: aliceblue;
+}
+.login .input1 {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 25px;
+    padding: 25px;
+    border: 1px solid;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-left: 75px;
+    margin-bottom: 20px;
+}
+.login .input2 {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 25px;
+    padding: 25px;
+    border: 1px solid;
+    border-radius: 5px;
+    margin-left: 75px;
+}
+.login-btn{
+    margin-top: 20px;
+    width: 80%;
+    height: 50px;
+    color: rgb(4, 4, 4);
+    cursor: pointer;
+    border-radius: 10px;
+    letter-spacing: 1px;
+    font-size: 20px;
+    background-color: rgb(16, 81, 233);
+    margin-left: 60px;
+    text-align: center;
+    font-weight:700;
+}
+.login-signup-btn {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    margin-left: 60px;
+    font-weight: 500;
+}
+.login-app p {
+    font-size: 30px;
+    margin-left: 130px;
+    margin-top: 15px;
+    color: rgb(3, 3, 3);
+}
+.app-google {
+    width: 247px;
+    height: 54px;
+    margin-top: 15px;
+    margin-left: 300px;
+    border: 1px solid rgb(169, 168, 168);
+    box-shadow: 1px;
+    border-radius: 10px;
+}
+.app-micoStore {
+    width: 247px;
+    height: 54px;
+    margin-top: 21px;
+    margin-left: 0px;
+    border: 1px solid rgb(169, 168, 168);
+    box-shadow: 1px;
+    border-radius: 10px;
+}
+.app-microsoft {
+    width: 247px;
+    height: 54px;
+    margin-top: 21px;
+    margin-left: 10px;
+    border: 1px solid rgb(169, 168, 168);
+    box-shadow: 1px;
+    border-radius: 10px;
+}
+
+
+/* sign up section start */
+
+.signup {
+    background-color: #ffffff;
+    background-image: url(./imagesPlay/gif.gif);
+    background-repeat: no-repeat;
+    background-size: cover;  
+
+}
+
+.signup-form {
+    background-color: #e5e3e3;
+    margin-top: 10px;
+    margin-left: -130px;
+    width: 570px;
+    height: 700px;
+    border: 1px solid gray;
+    align-items: center;
+    padding: 4px;
+    border-radius: 19px;
+    box-shadow: 30px 30px 50px rgb(100, 100, 100);
+}
+.signup .input1 {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 25px;
+    padding: 25px;
+    border: 1px solid;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-left: 75px;
+    margin-bottom: 20px;
+}
+.signup .input2 {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 25px;
+    padding: 25px;
+    border: 1px solid;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-left: 75px;
+    margin-bottom: 20px;
+}
+.signup .input3 {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 25px;
+    padding: 25px;
+    border: 1px solid;
+    border-radius: 5px;
+    margin-left: 75px;
+    margin-bottom: 10px;
+}
+

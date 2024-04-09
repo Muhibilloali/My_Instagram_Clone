@@ -1,0 +1,16 @@
+.button-delete {
+    display: flex;
+    flex-direction: column;
+    background-color: red;
+    color: rgb(246, 241, 241);
+    padding: 15px;
+    margin-top: 100px;
+    margin-right: 70px;
+    
+    border: 1px solid red;
+    border-radius: 2px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-weight: bold;
+}

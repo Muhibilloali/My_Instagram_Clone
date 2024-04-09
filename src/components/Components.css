@@ -1,0 +1,10 @@
+.header-body {
+    background-color: #B4B4B8;
+    display: fixed;
+    width: 100%;
+}
+/* border-b border-gray-border  bg-white fixed w-full z-50 */
+
+.card-body {
+    background-color:red;
+}

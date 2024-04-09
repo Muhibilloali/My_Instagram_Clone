@@ -1,0 +1,92 @@
+body{
+    background-color: antiquewhite;
+}
+.register-container {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+.formContainer{
+    width: 350px ;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border: 1.5px solid rgb(35, 35, 39);
+    padding: 15px;
+    height: auto;
+    margin-top: 100px;
+}
+
+.FormWrapper{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.insta-logo{
+    width: 175px;
+  
+}
+.title-register{
+    color: gray;
+    font-size: 17px;
+    display: block;
+}
+
+.register-facebook{
+    background-color: rgba(0, 119, 255, 0.644);
+    padding: 10px;
+    border: none;
+    border-radius: 12px;
+    color: white;
+    width: 250px;
+    margin: 10px;
+}
+
+.register-facebook:hover{
+    background-color: rgb(0, 140, 255);
+}
+
+.register-text{
+    color: gray;
+    font-size: 13px;
+    display: block;
+}
+
+.register{
+    padding: 10px;
+    width: 250px;
+    margin: 5px;
+}
+
+.button-register{
+    background-color: rgba(0, 119, 255, 0.644);
+    padding: 10px;
+    border: none;
+    border-radius: 12px;
+    color: white;
+    width: 250px;
+    margin: 10px;
+}
+
+.button-register:hover{
+    background-color: rgb(0, 140, 255);
+}
+.avatar{
+    display: none;
+}
+.avatar-profile{
+    width: 30px;
+    border-radius: 5px;
+}
+
+.label-avatar{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: grey;
+    cursor: pointer;
+    justify-content: center;
+    
+
+}
